@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class StepBannerApp {
 
     public static void main(String[] args) {
 
@@ -11,3 +11,4 @@ public class OOPSBannerApp {
         System.out.println("   ***   " + "   " + "   ***   " + "   " + " **      " + "   " + "  *****  ");
     }
 }
+
