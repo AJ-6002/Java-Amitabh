@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class STEPBannerApp {
     public static String[] getOPattern() {
         return new String[] {
             "   ***   ",
@@ -51,4 +51,5 @@ public class OOPSBannerApp {
             );
         }
     }
+
 }
