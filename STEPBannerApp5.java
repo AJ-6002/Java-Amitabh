@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class STEPBannerApp {
 
     public static void main(String[] args) {
 
@@ -18,4 +18,5 @@ public class OOPSBannerApp {
             System.out.println(line);
         }
     }
+
 }
