@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class STEPBannerApp {
 
     static class CharacterPatternMap {
         private char character;
@@ -100,4 +100,5 @@ public class OOPSBannerApp {
         String message = "OOPS";
         printMessage(message, charMaps);
     }
+
 }
