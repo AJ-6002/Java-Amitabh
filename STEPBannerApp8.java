@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class OOPSBannerApp {
+public class STEPBannerApp {
 
     public static HashMap<Character, String[]> createCharacterMap() {
         HashMap<Character, String[]> charMap = new HashMap<>();
@@ -78,4 +78,5 @@ public class OOPSBannerApp {
         String message = "OOPS";
         displayBanner(message, charMap);
     }
+
 }
